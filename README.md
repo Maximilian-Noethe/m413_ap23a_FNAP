@@ -9,6 +9,18 @@
 * R [Realize] 
 * K [Controll]
 * A [Asses]
+  
+# Code
+* Maincharacter
+* Enemy 1-3
+* Special enemy
+* Player abilities
+  * Flashligt
+  * Mask
+  * Camera
+
+
+
 
 
 
