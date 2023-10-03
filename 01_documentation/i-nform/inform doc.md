@@ -9,4 +9,5 @@ We realized that lots of the information part also may contain elements of other
 
 ![Screenshot 2023-10-03 184933](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/811cdb4a-1dc2-4751-b765-c69a79943262)
 
-![image](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/c3cad5af-a54b-45dd-b030-56d2692d7ff3)
+
+![Screenshot 2023-10-03 191250](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/a3296b53-0906-4ca2-b2ab-ad6c523fbb56)
