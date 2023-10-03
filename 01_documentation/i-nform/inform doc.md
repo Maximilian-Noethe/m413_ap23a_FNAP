@@ -7,5 +7,3 @@ To be honest we did not have a lot of problems by choosing our IDE which was “
 Our information resulted that these tools are the most suitable for our kind of project which contains a lot of 3D modelling features. After we set the base of knowledge that was needed, we could really move on with planning.  
 We realized that lots of the information part also may contain elements of other parts of “IPERKA” such as taking decisions. For us as a team the information part wasn’t the biggest part of the project yet, but we understand that it is the base for a good project.
 
-
-01_documentation/Screenshot 2023-10-03 184933.png
