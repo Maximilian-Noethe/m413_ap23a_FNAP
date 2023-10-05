@@ -16,3 +16,7 @@ To disinguish them isn't that easy we realized. So for this time we will cover u
 I think that it's a good base to look out to our information part of the documentation as we even there had to take first decisions.
 
 In summary I can say that I see single parts of the IPERKA model mixing up into smaller logs throughout the project. I can say that because for us atleast it wasn't so static as we first believed it could've been.
+![Screenshot 2023-10-05 210256](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/ace8cd40-953a-4e40-8a39-551e9bbff8d6)
+![Screenshot 2023-10-05 210305](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/77faa80b-2950-497f-bc2d-c1020c82ef54)
+![Screenshot 2023-10-05 210312](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/3db75f7d-0fa6-4f64-bcc7-1349171fd319)
+![Screenshot 2023-10-05 210328](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/3234a3cc-0a54-42a1-b831-07a2e7208478)
