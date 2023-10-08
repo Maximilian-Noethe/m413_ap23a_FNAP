@@ -28,3 +28,7 @@ I looked up how to add a following system to an object on YouTube and found a fe
 ## Functions
 Now I added the functions for the mask and the flashlight.
 I started with the flashlight. I had to plan how i would implement it kind off like a flowdiagram but i had no idea how i would do it with c#. So my idea was to write it kind off in the language c and gave it to chatgpt which convertet the code into c#. Afterwards i added the code and started it. what happened was, i wouldnt work. i tried it several times and it just couldnt work. After a quick reasearch on youtube, i got the anwser which was the keybinds werent ajusted. So i ajusted the keybinds and it work. Next was the mask. I already designed it so it wasnt a big deal. The code was very simular to the flashlight code but i had problems with editing the code for the AI enemy. Why you may ask? The problem was they had to stop following me, when i put on the mask. But as always uncle gpt was here to help me with this problem. Of course it worked out. Now we have alot of functions and playable features.
+
+## Collectibles
+Then we moved on to the collectibles. 
+Designing them was not that difficult. They were just cylinders of various sizes. After you had gathered all the collectibles, I created a code that raised a wall. The final enemy and the escape key are located in the room behind a wall.
