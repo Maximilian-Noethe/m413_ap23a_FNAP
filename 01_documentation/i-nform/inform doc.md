@@ -11,3 +11,4 @@ We realized that lots of the information part also may contain elements of other
 
 
 ![Screenshot 2023-10-03 191250](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/a3296b53-0906-4ca2-b2ab-ad6c523fbb56)
+## Sources of inspirement
