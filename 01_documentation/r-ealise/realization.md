@@ -31,4 +31,4 @@ I started with the flashlight. I had to plan how i would implement it kind off l
 
 ## Collectables
 Then we moved on to the collectables. 
-Designing them was not that difficult. They were just cylinders of various sizes. After you had gathered all the collectables, I created a code that raised a wall. The final enemy and the escape key are located in the room behind a wall.
+Designing them was not that difficult. They were just cylinders of various sizes. After you had gathered all the collectables, I created a code that raised a wall. The final enemy and the escape key are located in the room behind a wall. For the little cherry on the top of the cake I decided to add a sparkling effect to them so that they appear more.
