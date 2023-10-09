@@ -10,6 +10,8 @@ Naturally, we use Blender because it is the best free 3D modeling application av
 
 I proceed by adding each minor detail. I also added the flashlight, once I had the arms, which consists of a cylinder and a spotlight probe. I particularly like the effect that the spotlight probe gives the flashlight. It almost looks like a beam. The Mask is made up of some iso-spheres and two toruses. all lined up appear to a mask and voila you have got your player.
 
+![01_02](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/01_02.png)
+
 ## First enemy
 Now to the enemy.
 The enemy was supposed to resemble the banana skin from Fortnite, but with a more terrifying gimmick. I began with an ico-sphere and bent it into a banana or moon form. The eyes, which contain a light in the center to make them appear shiny were up next. Then I added some arms, two feet, and a stem to give it a banana look. the mouth came next. I started by half-circling an ico-sphere and painting it black. A material can be used to give objects texture. After that, I added some teeth-spikes. And here you have your enemy.
