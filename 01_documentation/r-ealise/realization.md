@@ -14,7 +14,15 @@ I proceed by adding each minor detail. I also added the flashlight, once I had t
 
 ## First enemy
 Now to the enemy.
-The enemy was supposed to resemble the banana skin from Fortnite, but with a more terrifying gimmick. I began with an ico-sphere and bent it into a banana or moon form. The eyes, which contain a light in the center to make them appear shiny were up next. Then I added some arms, two feet, and a stem to give it a banana look. the mouth came next. I started by half-circling an ico-sphere and painting it black. A material can be used to give objects texture. After that, I added some teeth-spikes. And here you have your enemy.
+The enemy was supposed to resemble the banana skin from Fortnite, but with a more terrifying gimmick. I began with an iso-sphere and bent it into a banana or moon form. 
+
+![02_01](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/02_01.png)
+
+The eyes, which contain a light in the center to make them appear shiny were up next. Then I added some arms, two feet, and a stem to give it a banana look. the mouth came next. I started by half-circling an iso-sphere and painting it black.
+
+![02_02](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/02_02.png)
+
+A material can be used to give objects texture. After that, I added some teeth-spikes. And here you have your enemy.
 
 ## Template map
 Making the map took a very long time.
