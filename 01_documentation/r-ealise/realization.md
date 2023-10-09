@@ -24,6 +24,8 @@ The eyes, which contain a light in the center to make them appear shiny were up 
 
 A material can be used to give objects texture. After that, I added some teeth-spikes. And here you have your enemy.
 
+![02_03](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/02_03.png)
+
 ## Template map
 Making the map took a very long time.
 A plane served as the foundation when I first got started. I then created a sketch in MS Paint that looked like this.
