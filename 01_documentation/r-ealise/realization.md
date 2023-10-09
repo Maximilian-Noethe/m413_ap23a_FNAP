@@ -4,7 +4,11 @@ The project's realization has now begun. First, we had to decide what to do. My 
 
 ## Player
 First off, the player.
-Naturally, we use Blender because it is the best free 3D modeling application available. I began with a capsule. Afterwards I will add arms, a mask, and a flashlight. I began with the arms, which I had to adjust later in the process because of a problem I'll describe later. I proceed by adding each minor detail. I also added the flashlight, once I had the arms, which consists of a cylinder and a spotlight probe. I particularly like the effect that the spotlight probe gives the flashlight. It almost looks like a beam. The Mask is made up of some iso-spheres and two toruses. all lined up appear to a mask and voila you have got your player.
+Naturally, we use Blender because it is the best free 3D modeling application available. I began with a capsule. Afterwards I will add arms, a mask, and a flashlight. I began with the arms, which I had to adjust later in the process because of a problem I'll describe later.
+
+![01_01](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/01_01.png)
+
+I proceed by adding each minor detail. I also added the flashlight, once I had the arms, which consists of a cylinder and a spotlight probe. I particularly like the effect that the spotlight probe gives the flashlight. It almost looks like a beam. The Mask is made up of some iso-spheres and two toruses. all lined up appear to a mask and voila you have got your player.
 
 ## First enemy
 Now to the enemy.
