@@ -22,9 +22,11 @@ The eyes, which contain a light in the center to make them appear shiny were up 
 
 ![02_02](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/02_02.png)
 
-A material can be used to give objects texture. After that, I added some teeth-spikes. And here you have your enemy.
+A material can be used to give objects texture.
 
 ![02_03](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/02_03.png)
+
+After that, I added some teeth-spikes. And here you have your enemy.
 
 ## Template map
 Making the map took a very long time.
