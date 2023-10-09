@@ -26,7 +26,13 @@ A material can be used to give objects texture. After that, I added some teeth-s
 
 ## Template map
 Making the map took a very long time.
-A plane served as the foundation when I first got started. I then created a sketch in MS Paint that looked like this: after the boys and I reached a decision to act on this sketch, I began to develop the map. It had to be quite accurate. The xyz compass proved useful in this regard. In order to make the template map, which had only walls and a floor and no other colors or interior objects, each room's walls had to be drawn first. 
+A plane served as the foundation when I first got started. I then created a sketch in MS Paint that looked like this.
+
+![03_01](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/03_01.png)
+
+After the boys and I reached a decision to act on this sketch, I began to develop the map. It had to be quite accurate. The xyz compass proved useful in this regard. In order to make the template map, which had only walls and a floor and no other colors or interior objects, each room's walls had to be drawn first. 
+
+![03_02](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/03_02.png)
 
 ## Unity project
 I began the Unity project with this.
