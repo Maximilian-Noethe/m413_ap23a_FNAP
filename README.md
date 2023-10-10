@@ -11,7 +11,7 @@
 * A [Asses]
   
 # Code
-* [Maincharacter]
+* [Player]
 * [Enemy 1-3]
 * [Special enemy]
 * [Player abilities]
