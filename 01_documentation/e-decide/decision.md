@@ -1,14 +1,19 @@
 ## Decision
 
-Decisions are very important and must be made in every project. For our specific project we did have to take decisions as well, but we we're quite cooperative in a kind of way that we really accepted eachother ideas and jsut added some sort of complementation to it. In this sense we made document such as task lists, decision logs and even decision matrixes. But we didn't only take decisions referring directly to the realisations part of the project but also on the social part. 
-By that I mean that we sometimes had to figure out when we could work most efficently and collaborative, who does which part of the project, are there any external factors or decisions to be considered, and so on.
-There we actually realized that the decisions part of the project, also has a influence ont eh planning part and lastly on the realization part and it goes both ways.
-However, an important part of the decison part where the documents and I want to loose a word or two about them. 
+Decisions play a role in every project, and our specific project was no exception. We navigated through a collaborative decision-making process, where we not only accepted each other's ideas but also provided complementary input. To facilitate this, we created documents such as task lists, decision logs, and decision matrices.
+
+Our decision-making wasn't limited to the technical aspects of the project; we also addressed social considerations. This involved determining the most efficient and collaborative times for work, assigning specific tasks to team members, and considering external factors that might impact our decisions.
+
+We realized that the decisions made during the project had a reciprocal influence on both the planning and realization phases. The relationship between decision-making, planning, and implementation is dynamic and interconnected.
+
+A noteworthy aspect of the decision-making process was the documentation, and I'd like to elaborate on that.
 
 ## Matrix Model
-A matrix model is needed to take bigger decisions. Now in our case, where we are developing a 3D game, an important decision is which tools we are going to use. We decided Blender as a designing tool and unity as our game engine. Why did we do that? You may well ask. We could choose the pro and cons of them tools regarding our Matrix Model. What are our priorities? Which performance should they have? What do we actually need? Do we have any experience and so on.
-In summary the matrix model really helps to decide when comparing two options with eachother.
+A matrix model is essential for making significant decisions. In our case, developing a 3D game involved a crucial decision regarding the choice of tools. We deliberated and ultimately decided on using Blender as our designing tool and Unity as our game engine. The question naturally arises: Why these choices? The answer lies in our careful consideration of the pros and cons of each tool, aligning them with our Matrix Model.
 
+We assessed our priorities, determining the specific performance criteria that were crucial for our project. Factors such as functionality, compatibility, and our team's existing experience played a vital role in this decision-making process. The matrix model provided a structured framework to compare the options side by side.
+
+In summary, the matrix model proved invaluable in guiding our decision-making by systematically comparing two options against each other.
 
 ![Screenshot 2023-10-05 210256](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/ace8cd40-953a-4e40-8a39-551e9bbff8d6)
 
@@ -18,10 +23,10 @@ In summary the matrix model really helps to decide when comparing two options wi
 
 ## Decision Log
 
-A decision log is good for tracking nearly to every decision you make. Honestly, it is a little difficult to back track on every decision as we didn't write all of them down as we should've. The reason for that is that we were unsure if it is really productive to do so because there were a couple of decision to make and it's soemtimes hard to prioritize the important ones over the "quick yes or no" ones.
-To disinguish them isn't that easy we realized. So for this time we will cover up some important decisions made but not to big to be on a Matrix table. Such as how many characters should the game have, what are the collectibles, how should the map look like and so on.
-I think that it's a good base to look out to our information part of the documentation as we even there had to take first decisions.
+A decision log proves beneficial for tracking nearly every decision made during a project. However, candidly, it can be challenging to retroactively trace every decision, especially when we didn't document all of them as thoroughly as we should have. The uncertainty stemmed from questioning the productivity of documenting every decision, given the multitude of choices to make. Prioritizing between important decisions and those requiring a quick 'yes or no' added complexity to the process, making it difficult to distinguish between them.
 
-In summary I can say that I see single parts of the IPERKA model mixing up into smaller logs throughout the project. I can say that because for us atleast it wasn't so static as we first believed it could've been.
+To address this, we've chosen to document crucial decisions that are significant but not large-scale enough to be included in a matrix table. Examples include determining the number of characters in the game, defining collectibles, deciding the appearance of the map, and so on. This approach serves as a pragmatic compromise.
+
+Looking at our information part of the documentation, we find it to be a good reference for our initial decisions. In summary, I observe that individual components of the IPERKA model integrate into smaller logs throughout the project. Contrary to our initial belief, our approach has been more dynamic than we anticipated.
 
 ![Screenshot 2023-10-05 210328](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/3234a3cc-0a54-42a1-b831-07a2e7208478)
