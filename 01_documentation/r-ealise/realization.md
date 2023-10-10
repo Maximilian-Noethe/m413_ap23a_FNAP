@@ -46,7 +46,11 @@ I started by adding the player and the sample map. I gave both the necessary fin
 
 The initial code, which dealt with player movement, was about to start. I looked up where to get a movement code and soon discovered it. I copied the code into a new C# script that I had created. The player was functional yet odd. I got rid of the arms and made the rest of the body move in sync with the camera, it looked awesome. This is the before and after.
 
-[![04_02](https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/04_02.png)
+[![04_02]()](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/04_02.png)
+
+
+https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780585/51ed717a-dd79-41d1-afb2-3327cef6f2c6
+
 
 It was now time to complete the map.
 
