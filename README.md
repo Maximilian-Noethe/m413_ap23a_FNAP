@@ -24,9 +24,9 @@
 
 
 
-[Inform]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/i-nform/inform doc.md
+[Inform]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/i-nform
 [Plan]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/p-lan
-[Decide]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/e-decide/decision_doc.md
+[Decide]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/e-decide
 [Realize]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/r-ealise/realization.md
 [Controll]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/k-controll
 [Asses]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/a-sses
