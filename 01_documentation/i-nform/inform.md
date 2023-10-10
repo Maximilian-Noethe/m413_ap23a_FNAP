@@ -1,14 +1,17 @@
 ## Inform
 
-As we received the information that we are going to work on an assignment, we started with a brainstorming session to sort our thoughts in a kind of way so that we can make sure that we can decide the best idea.
-After we decided that we want to create a game, there were a hundred of things that we had to discuss. Such as what tool do we want to use, what is the goal of the game, what are features of it etc. 
-We kept informing us via the internet and from knowledge that we already had. The assignment had some requirements that had to be fulfilled and for that reason we also thought about them in an early stage. 
-To be honest we did not have a lot of problems by choosing our IDE which was “Blender” for the animation part and “Unity” for the game development. 
-Our information resulted that these tools are the most suitable for our kind of project which contains a lot of 3D modelling features. After we set the base of knowledge that was needed, we could really move on with planning.  
-We realized that lots of the information part also may contain elements of other parts of “IPERKA” such as taking decisions. For us as a team the information part wasn’t the biggest part of the project yet, but we understand that it is the base for a good project.
+As soon as we received the information that we would be working on an assignment, we initiated a brainstorming session to organize our thoughts in a structured manner. This was crucial to ensure that we could collectively decide on the best idea. Upon concluding that we wanted to create a game, numerous aspects needed thorough discussion, ranging from the choice of tools to defining the game's goal and features.
+
+We continuously gathered information through internet sources and drew from our existing knowledge. Given that the assignment had specific requirements that needed to be met, we considered them early in the planning process. Fortunately, we encountered minimal challenges in selecting our IDEs, opting for 'Blender' for animation and 'Unity' for game development.
+
+Our research indicated that these tools were most suitable for our project, which heavily involves 3D modeling features. With a solid foundation of necessary knowledge, we could proceed with detailed planning.
+
+We recognized that the informational aspect of our project might overlap with other components of 'IPERKA,' such as decision-making. While, as a team, the information part did not constitute the largest segment of our project, we acknowledged its pivotal role as the bedrock for a successful project
 
 ![Screenshot 2023-10-03 184933](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/811cdb4a-1dc2-4751-b765-c69a79943262)
 
 
 ![Screenshot 2023-10-03 191250](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/a3296b53-0906-4ca2-b2ab-ad6c523fbb56)
 ## Sources of inspirement
+
+Initially, our inspiration stemmed from the horror game 'Five Nights At Freddy's,' where the objective is to survive five nights in a haunted restaurant overrun by malfunctioning robots. Drawing from our shared enthusiasm for the third-person shooter game 'Fortnite,' we aimed to blend elements from both games, adding a unique twist to our project. Consequently, we delved into researching how we could seamlessly integrate aspects of these two games with each other.
