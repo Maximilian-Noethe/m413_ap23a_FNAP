@@ -40,7 +40,15 @@ After the boys and I reached a decision to act on this sketch, I began to develo
 
 ## Unity project
 I began the Unity project with this.
-I started by adding the player and the sample map. I gave both the necessary finishing touches. Now, thanks to the boxcollider, we have a still bean that isn't falling through the floor. The initial code, which dealt with player movement, was about to start. I looked up where to get a movement code and soon discovered it. I copied the code into a new C# script that I had created. The player was functional yet odd. I got rid of the arms and made the rest of the body move in sync with the camera, it looked awesome. It was now time to complete the map.
+I started by adding the player and the sample map. I gave both the necessary finishing touches. Now, thanks to the boxcollider, we have a still bean that isn't falling through the floor.
+
+![04_01](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/04_01.png)
+
+The initial code, which dealt with player movement, was about to start. I looked up where to get a movement code and soon discovered it. I copied the code into a new C# script that I had created. The player was functional yet odd. I got rid of the arms and made the rest of the body move in sync with the camera, it looked awesome. This is the before and after.
+
+![04_02](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/04_02.mp4)
+
+It was now time to complete the map.
 
 ## Designing the map
 I started giving the floor and walls textures. After that, I designed the interior, including the playroom, the kitchen, the stage, and some tables that I downloaded off the internet. Of these, the playroom is what I am most proud of. The second story is meant to resemble a playground from the mall. Additionally, there is a hidden room, which will be covered in the paperwork later. We'll import it into the game now that everything is set up. The rooms we have are the main hall, the playroom, the secret room, the stage, the kitchen, the corridor, the office, and the staff room.
