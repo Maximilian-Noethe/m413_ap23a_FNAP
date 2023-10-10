@@ -32,7 +32,7 @@
 [Asses]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/a-sses
 
 
-[Maincharacter]: 
+[Player]: 
 [Enemy 1-3]:
 [Special enemy]:
 [Player abilities]: 
