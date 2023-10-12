@@ -29,7 +29,7 @@ Time-bound: Establish a specific timeline or milestone for achieving this goal w
 
 #2nd Goal: Monster Implementation
 
-Specific: Implement four regular monsters and one special end boss, each contributing to the logical structure of the game.
+*Specific: Implement four regular monsters and one special end boss, each contributing to the logical structure of the game.
 Measurable: Clearly define the abilities and characteristics of each monster, providing measurable challenges for players.
 Achievable: Balance the difficulty to offer engaging gameplay without making it overly strenuous.
 Relevant: Integrate the monsters seamlessly into the game narrative, with the end boss serving as a climactic challenge.
