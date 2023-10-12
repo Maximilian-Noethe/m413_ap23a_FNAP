@@ -31,8 +31,7 @@ For our project, we've established three SMART goals to provide structure to our
 
 **Relevant:** Align the goal with the overall narrative, making the escape from Peely's haunted restaurant a pivotal part of the gaming experience.
 
-**Time-bound:** Establish a specific timeline or milestone for achieving this goal within the project schedule.
-
+**Time-bound:** Establish a specific timeline or milestone for achieving this goal within the project schedule.  
 
 
 **2nd Goal:** Monster Implementation
@@ -45,10 +44,7 @@ For our project, we've established three SMART goals to provide structure to our
 
 **Relevant:** Integrate the monsters seamlessly into the game narrative, with the end boss serving as a climactic challenge.
 
-**Time-bound:** Set deadlines for monster implementation to maintain progress within the project timeline.
-
-
-
+**Time-bound:** Set deadlines for monster implementation to maintain progress within the project timeline.  
 
 
 **3rd Goal:** Prioritizing Functionality Over Graphics
