@@ -59,7 +59,11 @@ After that, I designed the interior, including the playroom, the kitchen, the st
 
 ## Artificial inteligence
 The enemy's AI will be coded as the next step.
-I looked up how to add a following system to an object on YouTube and found a few tutorials that together helped me do the task. I had to download an AI asset, which gave me a ton of brand-new features and elements. It was really useful to have the navigation mesh agent and obstacle components. The object you want to move gets the agent added, and the things that are obviously impediments get the obstacle added. You can decide if the obstacles are walkable at that point. 
+I looked up how to add a following system to an object on YouTube and found a few tutorials that together helped me do the task. I had to download an AI asset, which gave me a ton of brand-new features and elements. It was really useful to have the navigation mesh agent and obstacle components. 
+
+![06_03](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/06_03.png)
+
+The object you want to move gets the agent added, and the things that are obviously impediments get the obstacle added. You can decide if the obstacles are walkable at that point. 
 
 ![06_01](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/06_01.png)
 
