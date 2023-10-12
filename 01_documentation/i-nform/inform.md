@@ -19,6 +19,8 @@ Initially, our inspiration stemmed from the horror game 'Five Nights At Freddy's
 ## Goals
 For our project, we've established three SMART goals to provide structure to our ambitions and guide the development process. These goals serve as a vision for the project, offering a reference point for control and assessment throughout its lifecycle.
 
+
+
 1st Goal: Collectibles and Escape
 
 *Specific:* Players must collect three in-game items to obtain a key, allowing them to escape the haunted restaurant, evading Peely and his army.
@@ -30,6 +32,8 @@ For our project, we've established three SMART goals to provide structure to our
 *Relevant:* Align the goal with the overall narrative, making the escape from Peely's haunted restaurant a pivotal part of the gaming experience.
 
 *Time-bound:* Establish a specific timeline or milestone for achieving this goal within the project schedule.
+
+
 
 #2nd Goal: Monster Implementation
 
@@ -43,6 +47,8 @@ For our project, we've established three SMART goals to provide structure to our
 
 *Time-bound:* Set deadlines for monster implementation to maintain progress within the project timeline.
 
+
+
 #3rd Goal: Prioritizing Functionality Over Graphics
 
 *Specific:* Prioritize the functionality and smooth operation of the application over high-end graphics.
@@ -54,5 +60,7 @@ For our project, we've established three SMART goals to provide structure to our
 *Relevant:* Align the decision with budget constraints and the practicality of developing a 3D game, ensuring a pragmatic approach.
 
 *Time-bound:* Set milestones for functionality, ensuring that core mechanics are in place before allocating significant resources to graphics.
+
+
 
 These goals provide a comprehensive framework for our project, ensuring a clear path towards successful development and implementation. Regular assessments and open communication within the team will further contribute to achieving these objectives.
