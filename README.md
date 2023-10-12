@@ -25,13 +25,21 @@ Best regards,
 Karol, Max, and Gabriel
 
 ## Who are we?
+Karol, Max, and Gabriel form a dynamic team of three individuals with a shared ambition—to deliver a compelling and enjoyable 3D horror game. Our collective dedication is evident in our concerted efforts and unwavering focus on achieving our goals. Beyond our individual pursuits, our common ground lies in our passion for gaming, and we aspire to share this enthusiasm with the world by translating our ideas and concepts into a captivating gaming experience.
+
+Our shared interest in gaming experience serves as a driving force, motivating us to overcome challenges and push the boundaries of creativity. Central to our strategy is the meticulous documentation of our journey, detailing every step from inception to completion. This documentation not only serves as a record but also as a guide that reflects our commitment to transparency and accountability.
+
+Strengths define our team, and we pride ourselves on flexibility, endurance, and a harmonious working relationship. These qualities enable us to collaborate professionally, ensuring efficient progress and effective problem-solving. Our aim is not only to meet but to surpass user expectations, aligning our efforts with the ambitious goals we set for ourselves.
+
+In essence, our team is dedicated to the successful realization of our project, and we look forward to sharing the fruits of our labor with the world.
+
 
 ## Karol
 
 ## Max
 
 ## Gabriel
-
+I am Gabriel and I am responsable for a part of the documentation and the administration of our project. 
 
 # Documentation
 * I [Inform]
