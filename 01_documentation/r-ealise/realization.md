@@ -2,7 +2,13 @@
 
 * [Realization](#realization)
 * [Player](#player)
+* [First enemy](#first-enemy)
+* [Template map](#template-map)
 * [Unity project](#unity-project)
+* [Designing the map](#designing-the-map)
+* [Artificial inteligence](#artificial-inteligence)
+* [Functions](#functions)
+* [Collectables](#collectables)
 
 
 
@@ -46,7 +52,7 @@ After the boys and I reached a decision to act on this sketch, I began to develo
 
 ![03_02](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/03_02.png)
 
-# Unity project
+## Unity project
 I began the Unity project with this.
 I started by adding the player and the sample map. I gave both the necessary finishing touches. Now, thanks to the boxcollider, we have a still bean that isn't falling through the floor.
 
