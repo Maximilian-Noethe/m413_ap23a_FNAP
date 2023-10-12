@@ -52,7 +52,10 @@ https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780585/51ed717a-d
 It was now time to complete the map.
 
 ## Designing the map
-I started giving the floor and walls textures. After that, I designed the interior, including the playroom, the kitchen, the stage, and some tables that I downloaded off the internet. Of these, the playroom is what I am most proud of. The second story is meant to resemble a playground from the mall. Additionally, there is a hidden room, which will be covered in the paperwork later. We'll import it into the game now that everything is set up. The rooms we have are the main hall, the playroom, the secret room, the stage, the kitchen, the corridor, the office, and the staff room.
+I started giving the floor and walls textures.
+After that, I designed the interior, including the playroom, the kitchen, the stage, and some tables that I downloaded off the internet. Of these, the playroom is what I am most proud of. The second story is meant to resemble a playground from the mall. Additionally, there is a hidden room, which will be covered in the paperwork later. We'll import it into the game now that everything is set up. The rooms we have are the main hall, the playroom, the secret room, the stage, the kitchen, the corridor, the office, and the staff room.
+
+![05_01](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/05_01.png)
 
 ## Artificial inteligence
 The enemy's AI will be coded as the next step.
