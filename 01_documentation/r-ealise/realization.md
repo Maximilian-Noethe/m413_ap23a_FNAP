@@ -2,8 +2,6 @@
 
 [Realization](#realization)
 [Player](#player)
-
-
 [Unity project](##unity-project)
 
 
