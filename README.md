@@ -21,7 +21,18 @@ Feel free to explore the entire repository to get a closer look at our codebase,
 Thank you for your interest, and we invite you to immerse yourself in our project!
 
 Best regards,
+
 Karol, Max, and Gabriel
+
+## Who are we?
+
+## Karol
+
+## Max
+
+## Gabriel
+
+
 # Documentation
 * I [Inform]
 * P [Plan]
