@@ -64,3 +64,6 @@ For our project, we've established three SMART goals to provide structure to our
 
 
 These goals provide a comprehensive framework for our project, ensuring a clear path towards successful development and implementation. Regular assessments and open communication within the team will further contribute to achieving these objectives.
+
+![Screenshot 2023-10-12 084638](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/58d4911e-e9a0-426d-bc6c-62f1a5d9d699)
+
