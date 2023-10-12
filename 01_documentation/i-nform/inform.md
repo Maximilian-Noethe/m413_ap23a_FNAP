@@ -35,7 +35,7 @@ For our project, we've established three SMART goals to provide structure to our
 
 
 
-#2nd Goal: Monster Implementation
+2nd Goal: Monster Implementation
 
 *Specific:* Implement four regular monsters and one special end boss, each contributing to the logical structure of the game.
 
@@ -48,7 +48,7 @@ For our project, we've established three SMART goals to provide structure to our
 *Time-bound:* Set deadlines for monster implementation to maintain progress within the project timeline.
 
 
-#3rd Goal: Prioritizing Functionality Over Graphics
+3rd Goal: Prioritizing Functionality Over Graphics
 
 *Specific:* Prioritize the functionality and smooth operation of the application over high-end graphics.
 
