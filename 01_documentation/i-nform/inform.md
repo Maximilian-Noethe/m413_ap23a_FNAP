@@ -15,3 +15,9 @@ We recognized that the informational aspect of our project might overlap with ot
 ## Sources of inspirement
 
 Initially, our inspiration stemmed from the horror game 'Five Nights At Freddy's,' where the objective is to survive five nights in a haunted restaurant overrun by malfunctioning robots. Drawing from our shared enthusiasm for the third-person shooter game 'Fortnite,' we aimed to blend elements from both games, adding a unique twist to our project. Consequently, we delved into researching how we could seamlessly integrate aspects of these two games with each other.
+
+## Goals
+
+For our project we had to set goals in order to get more structure into our ambitions and the project as a whole. In this sense we decided on three smart goals that should give us kind of a vision for the project and where we can also look back to in the control part and asses part later on.
+
+Our #1 goal
