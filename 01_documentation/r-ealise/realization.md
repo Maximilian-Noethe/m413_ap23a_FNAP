@@ -82,7 +82,7 @@ Additionally, I had to write one line of code, possibly two. Everything was succ
 Now I added the functions for the mask and the flashlight.
 I started with the flashlight. I had to plan how I would implement it kind off like a flowchart but I had no idea how I would do it with c#. So my idea was to write it kind off in the language c and gave it to chatgpt which convertet the code into c#. Afterwards I added the code and started it. What happened was, I wouldnt work. I tried it several times and it just couldnt work. After a quick reasearch on youtube, I got the anwser which was the keybinds werent ajusted. So I ajusted the keybinds and it work.
 
-
+![07_01](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/07_01.png)
 
 Next was the mask. I already designed it so it wasnt a big deal. The code was very simular to the flashlight code but I had problems with editing the code for the AI enemy. Why? You may ask. The problem was they had to stop following me, when I put on the mask. But as always uncle gpt was here to help me with this problem. Of course it worked out. Now we have alot of functions and playable features.
 
