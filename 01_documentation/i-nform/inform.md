@@ -24,9 +24,13 @@ For our project, we've established three SMART goals to provide structure to our
 1st Goal: Collectibles and Escape
 
 *Specific:* Players must collect three in-game items to obtain a key, allowing them to escape the haunted restaurant, evading Peely and his army.
+
 *Measurable:* Define clear criteria for collecting each item, ensuring players have a tangible objective for progression.
+
 *Achievable:* Set a balanced difficulty level to make the task challenging yet feasible for players.
+
 *Relevant:* Align the goal with the overall narrative, making the escape from Peely's haunted restaurant a pivotal part of the gaming experience.
+
 *Time-bound:* Establish a specific timeline or milestone for achieving this goal within the project schedule.
 
 
@@ -34,17 +38,26 @@ For our project, we've established three SMART goals to provide structure to our
 #2nd Goal: Monster Implementation
 
 *Specific:* Implement four regular monsters and one special end boss, each contributing to the logical structure of the game.
+
 *Measurable:* Clearly define the abilities and characteristics of each monster, providing measurable challenges for players.
+
 *Achievable:* Balance the difficulty to offer engaging gameplay without making it overly strenuous.
+
 *Relevant:* Integrate the monsters seamlessly into the game narrative, with the end boss serving as a climactic challenge.
+
 *Time-bound:* Set deadlines for monster implementation to maintain progress within the project timeline.
 
 
 #3rd Goal: Prioritizing Functionality Over Graphics
+
 *Specific:* Prioritize the functionality and smooth operation of the application over high-end graphics.
+
 *Measurable:* Establish criteria for functional success, focusing on smooth gameplay, minimal bugs, and reliable performance.
+
 *Achievable:* Concentrate on developing a robust foundation for the game before allocating resources to graphics, considering the challenges of 3D game development.
+
 *Relevant:* Align the decision with budget constraints and the practicality of developing a 3D game, ensuring a pragmatic approach.
+
 *Time-bound:* Set milestones for functionality, ensuring that core mechanics are in place before allocating significant resources to graphics.
 
 These goals provide a comprehensive framework for our project, ensuring a clear path towards successful development and implementation. Regular assessments and open communication within the team will further contribute to achieving these objectives.
