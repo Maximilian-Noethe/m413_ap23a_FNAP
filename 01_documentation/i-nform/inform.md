@@ -2,6 +2,8 @@
 
 As soon as we received the information that we would be working on an assignment, we initiated a brainstorming session to organize our thoughts in a structured manner. This was crucial to ensure that we could collectively decide on the best idea. Upon concluding that we wanted to create a game, numerous aspects needed thorough discussion, ranging from the choice of tools to defining the game's goal and features.
 
+
+## Tools
 We continuously gathered information through internet sources and drew from our existing knowledge. Given that the assignment had specific requirements that needed to be met, we considered them early in the planning process. Fortunately, we encountered minimal challenges in selecting our IDEs, opting for 'Blender' for animation and 'Unity' for game development.
 
 Our research indicated that these tools were most suitable for our project, which heavily involves 3D modeling features. With a solid foundation of necessary knowledge, we could proceed with detailed planning.
@@ -20,7 +22,6 @@ Initially, our inspiration stemmed from the horror game 'Five Nights At Freddy's
 For our project, we've established three SMART goals to provide structure to our ambitions and guide the development process. These goals serve as a vision for the project, offering a reference point for control and assessment throughout its lifecycle.
 
 
-
 **1st Goal:** Collectibles and Escape
 
 **Specific:** Players must collect three in-game items to obtain a key, allowing them to escape the haunted restaurant, evading Peely and his army.
@@ -32,13 +33,6 @@ For our project, we've established three SMART goals to provide structure to our
 **Relevant:** Align the goal with the overall narrative, making the escape from Peely's haunted restaurant a pivotal part of the gaming experience.
 
 **Time-bound:** Establish a specific timeline or milestone for achieving this goal within the project schedule.  
-
-
-
-
-
-
-
 
 
 **2nd Goal:** Monster Implementation
@@ -54,12 +48,6 @@ For our project, we've established three SMART goals to provide structure to our
 **Time-bound:** Set deadlines for monster implementation to maintain progress within the project timeline.  
 
 
-
-
-
-
-
-
 **3rd Goal:** Prioritizing Functionality Over Graphics
 
 **Specific:** Prioritize the functionality and smooth operation of the application over high-end graphics.
@@ -73,12 +61,16 @@ For our project, we've established three SMART goals to provide structure to our
 **Time-bound:** Set milestones for functionality, ensuring that core mechanics are in place before allocating significant resources to graphics.
 
 
-
-
-
-
-
 These goals provide a comprehensive framework for our project, ensuring a clear path towards successful development and implementation. Regular assessments and open communication within the team will further contribute to achieving these objectives.
+
 
 ![Screenshot 2023-10-12 084638](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/58d4911e-e9a0-426d-bc6c-62f1a5d9d699)
 
+##Directory of sources
+
+**Unity download:** https://unity.com/de/download
+**Blender download:** https://unity.com/de/download
+**Inspiration by FNAF** https://en.wikipedia.org/wiki/Five_Nights_at_Freddy%27s
+**Inspiration by Forttnite for Characters:** https://www.theverge.com/2021/9/10/22666922/apple-epic-peely-naked-banana-judgement
+**IPERKA management:** https://www.bexio.com/de-CH/blog/view/iperka-methode
+**Videos for the use of Unity:** 
