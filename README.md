@@ -7,7 +7,7 @@ Welcome to the repository of the "Five Nights At Peelys" project by Karol, Max, 
 Our game is set in a haunted restaurant, and the primary objective is to escape its eerie confines. Drawing inspiration from the horror game "Five Nights At Freddy's" and the popular title "Fortnite," we crafted an engaging and immersive experience.
 
 ## Methodology
-Following the IPERKA management method, we meticulously planned and executed each step of the project. This approach allowed us to prioritize client satisfaction while maintaining a focus on efficiency and quality.
+Following the IPERKA management method, we meticulously Planned and executed each step of the project. This approach allowed us to prioritize client satisfaction while maintaining a focus on efficiency and quality.
 
 ## Why Five Nights At Peelys?
 The concept of the game emerged from the intrigue of horror games like "Five Nights At Freddy's" and the dynamic environment of "Fortnite." By blending elements from these influences, we aimed to create a unique and captivating gaming experience.
