@@ -23,7 +23,7 @@ For our project, we've established three SMART goals to provide structure to our
 
 1st Goal: Collectibles and Escape
 
-*Specific:* Players must collect three in-game items to obtain a key, allowing them to escape the haunted restaurant, evading Peely and his army.
+**Specific:** Players must collect three in-game items to obtain a key, allowing them to escape the haunted restaurant, evading Peely and his army.
 
 *Measurable:* Define clear criteria for collecting each item, ensuring players have a tangible objective for progression.
 
