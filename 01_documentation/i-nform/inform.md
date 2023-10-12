@@ -34,6 +34,13 @@ For our project, we've established three SMART goals to provide structure to our
 **Time-bound:** Establish a specific timeline or milestone for achieving this goal within the project schedule.  
 
 
+
+
+
+
+
+
+
 **2nd Goal:** Monster Implementation
 
 **Specific:** Implement four regular monsters and one special end boss, each contributing to the logical structure of the game.
@@ -47,6 +54,12 @@ For our project, we've established three SMART goals to provide structure to our
 **Time-bound:** Set deadlines for monster implementation to maintain progress within the project timeline.  
 
 
+
+
+
+
+
+
 **3rd Goal:** Prioritizing Functionality Over Graphics
 
 **Specific:** Prioritize the functionality and smooth operation of the application over high-end graphics.
@@ -58,6 +71,12 @@ For our project, we've established three SMART goals to provide structure to our
 **Relevant:** Align the decision with budget constraints and the practicality of developing a 3D game, ensuring a pragmatic approach.
 
 **Time-bound:** Set milestones for functionality, ensuring that core mechanics are in place before allocating significant resources to graphics.
+
+
+
+
+
+
 
 These goals provide a comprehensive framework for our project, ensuring a clear path towards successful development and implementation. Regular assessments and open communication within the team will further contribute to achieving these objectives.
 
