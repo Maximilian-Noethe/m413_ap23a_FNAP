@@ -88,4 +88,10 @@ Next was the mask. I already designed it so it wasnt a big deal. The code was ve
 
 ## Collectables
 Then we moved on to the collectables. 
-Designing them was not that difficult. They were just cylinders of various sizes. After you had gathered all the collectables, I created a code that raised a wall. The final enemy and the escape key are located in the room behind a wall. For the little cherry on the top of the cake I decided to add a sparkling effect to them so that they appear more.
+Designing them was not that difficult. They were just cylinders of various sizes.
+
+![08_01](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/08_01.png)
+
+After you gather all the collectables during the game, I created a code that raised a wall which led to the secret room. The final enemy and the escape key are located in the secret room. For the little cherry on the top of the cake I decided to add a sparkling effect to them so that they appear more.
+
+![08_02](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/08_02.png)
