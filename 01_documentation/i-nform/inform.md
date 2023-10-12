@@ -35,7 +35,7 @@ For our project, we've established three SMART goals to provide structure to our
 
 
 
-###2nd Goal: Monster Implementation
+2nd Goal: Monster Implementation
 
 *Specific:* Implement four regular monsters and one special end boss, each contributing to the logical structure of the game.
 
