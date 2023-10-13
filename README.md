@@ -63,13 +63,15 @@ I am Gabriel and I am responsable for a part of the documentation and the admini
 [Asses]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/a-sses
 
 
-[Player]: 
-[Enemy 1-3]:
-[Special enemy]:
-[Player abilities]: 
-[Flashligt]:
-[Mask]:
-[Camera]:
+
+
+
+[Abilities]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Abilities
+[Enemy 1-3]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Enemy%201%20-%203
+[Maincharacter]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Maincharacter
+[Special enemy]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Special%20enemy
+
+
 
 ## Dive into the Repository
 Feel free to explore the entire repository to get a closer look at our codebase, assets, and design choices. We hope you enjoy the journey through the various components of "Five Nights At Peelys."
@@ -78,4 +80,6 @@ Thank you for your interest, and we invite you to immerse yourself in our projec
 
 Best regards,
 
-Karol, Max, and Gabriel
+Gabriel, Karol and Max
+
+
