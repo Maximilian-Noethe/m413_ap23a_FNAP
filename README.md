@@ -12,7 +12,7 @@
 * [Karol](#karol)
 * [Max](#max)
 * [Dive Into The Repository](#dive-into-the-repository)
-* [Documentation](#docuentation)
+* [Documentation](#documentation)
 * [Code](#code)
 
 # Introduction
