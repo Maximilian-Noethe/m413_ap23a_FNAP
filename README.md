@@ -42,13 +42,11 @@ I am Gabriel and I am responsable for a part of the documentation and the admini
 * A [Asses]
   
 # Code
-* [Player]
+* [Abilities]
 * [Enemy 1-3]
+* [Maincharacter]
 * [Special enemy]
-* [Player abilities]
-  * [Flashligt]
-  * [Mask]
-  * [Camera]
+
 
 
 
