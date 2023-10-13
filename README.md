@@ -7,7 +7,7 @@
 * [Methodology](#methodology)
 * [Why Five Nights At Peelys?](#why-five-nights-at-peelys?)
 * [Explore Our Documentation](#explore-our-documentation)
-* [Who Are We](#who-are-we)
+* [Who Are We?](#who-are-we?)
 * [Gabriel](#gabriel)
 * [Karol](#karol)
 * [Max](#max)
