@@ -35,7 +35,7 @@ To gain a comprehensive understanding of our project and its developmental stage
 Karol, Max, and Gabriel form a dynamic team of three individuals with a shared ambition—to deliver a compelling and enjoyable 3D horror game. Our collective dedication is evident in our concerted efforts and unwavering focus on achieving our goals. Beyond our individual pursuits, our common ground lies in our passion for gaming, and we aspire to share this enthusiasm with the world by translating our ideas and concepts into a captivating gaming experience.
 
 ### Gabriel
-I am Gabriel and I am responsable for a part of the documentation and the administration of our project.
+I am Gabriel and I am responsable for a part of the documentation and the administration of our project. As I have interest for our team to have a great project I am commited to administrate the repository and the documentation with my mate Max whose also very into this project and complements my work pretty good and vise versa.
 
 ### Karol
 
