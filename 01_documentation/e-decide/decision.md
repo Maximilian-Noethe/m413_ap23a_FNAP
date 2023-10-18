@@ -30,4 +30,5 @@ To address this, we've chosen to document crucial decisions that are significant
 
 Looking at our information part of the documentation, we find it to be a good reference for our initial decisions. In summary, I observe that individual components of the IPERKA model integrate into smaller logs throughout the project. Contrary to our initial belief, our approach has been more dynamic than we anticipated.
 
-![Screenshot 2023-10-05 210328](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/3234a3cc-0a54-42a1-b831-07a2e7208478)
+![Screenshot 2023-10-18 212333](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/643b6171-a984-435f-93df-175f65576cb6)
+
