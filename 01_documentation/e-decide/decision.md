@@ -15,11 +15,7 @@ We assessed our priorities, determining the specific performance criteria that w
 
 In summary, the matrix model proved invaluable in guiding our decision-making by systematically comparing two options against each other.
 
-![Screenshot 2023-10-05 210256](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/ace8cd40-953a-4e40-8a39-551e9bbff8d6)
 
-![Screenshot 2023-10-05 210305](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/77faa80b-2950-497f-bc2d-c1020c82ef54)
-
-![Screenshot 2023-10-05 210312](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/3db75f7d-0fa6-4f64-bcc7-1349171fd319)
 
 ## Decision Log
 
