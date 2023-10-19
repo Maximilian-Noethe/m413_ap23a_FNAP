@@ -74,3 +74,5 @@ These goals provide a comprehensive framework for our project, ensuring a clear 
 **Inspiration by Forttnite for Characters:** https://www.theverge.com/2021/9/10/22666922/apple-epic-peely-naked-banana-judgement
 **IPERKA management:** https://www.bexio.com/de-CH/blog/view/iperka-methode
 **Videos for the use of Unity:** 
+
+[Back to Introduction](README.md) / [Next](r-Realize)
