@@ -62,7 +62,6 @@ The initial code, which dealt with player movement, was about to start. I looked
 
 https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780585/51ed717a-dd79-41d1-afb2-3327cef6f2c6
 
-
 It was now time to complete the map.
 
 ## Designing the map
@@ -109,3 +108,7 @@ After you gather all the collectables during the game, I created a code that rai
 Next thing was adding the HUD to the game. I had to get a picture of a needle and added a counter next to it so you can see how many needles you have already collected. I also added the batteryprocentage and with that the funktion to make the flashlight slowly fade away and make the intensity smaller. It functions reallz well and im very proud of myself.
 
 ![09_021](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/Screenshots/09_01.png)
+
+## Jumpscare
+
+Now was the time for jumpscares. What I did, was to if the player gets caught by the enemy, that he will be teleported to the jumpscare sceen. It looks like this.
