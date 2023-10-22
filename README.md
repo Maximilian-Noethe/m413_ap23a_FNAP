@@ -5,7 +5,7 @@
 * [Introdcution](#introduction)
 * [Project Overview](#project-overview)
 * [Methodology](#methodology)
-* [Why Five Nights At Peelys?](#why-five-nights-at-peelys)
+* [Why Five Nights At Peelys?](#why-five-nights-at-peelys?)
 * [Explore Our Documentation](#explore-our-documentation)
 * [Who Are We?](#who-are-we-?)
 * [Gabriel](#gabriel)
@@ -24,7 +24,7 @@ Our game is set in a haunted restaurant, and the primary objective is to escape 
 ## Methodology
 Following the IPERKA management method, we meticulously Planned and executed each step of the project. This approach allowed us to prioritize client satisfaction while maintaining a focus on efficiency and quality.
 
-## Why Five Nights At Peelys
+## Why Five Nights At Peelys?
 The concept of the game emerged from the intrigue of horror games like "Five Nights At Freddy's" and the dynamic environment of "Fortnite." By blending elements from these influences, we aimed to create a unique and captivating gaming experience.
 
 ## Explore Our Documentation
