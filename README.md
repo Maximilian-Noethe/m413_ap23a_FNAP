@@ -5,9 +5,9 @@
 * [Introdcution](#introduction)
 * [Project Overview](#project-overview)
 * [Methodology](#methodology)
-* [Why Five Nights At Peelys?](#why-five-nights-at-peelys?)
+* [Why Five Nights At Peelys?](#why-five-nights-at-peelys)
 * [Explore Our Documentation](#explore-our-documentation)
-* [Who Are We?](#who-are-we-?)
+* [Who Are We?](#who-are-we)
 * [Gabriel](#gabriel)
 * [Karol](#karol)
 * [Max](#max)
@@ -24,14 +24,14 @@ Our game is set in a haunted restaurant, and the primary objective is to escape 
 ## Methodology
 Following the IPERKA management method, we meticulously Planned and executed each step of the project. This approach allowed us to prioritize client satisfaction while maintaining a focus on efficiency and quality.
 
-## Why Five Nights At Peelys?
+## Why Five Nights At Peelys
 The concept of the game emerged from the intrigue of horror games like "Five Nights At Freddy's" and the dynamic environment of "Fortnite." By blending elements from these influences, we aimed to create a unique and captivating gaming experience.
 
 ## Explore Our Documentation
 To gain a comprehensive understanding of our project and its developmental stages, we encourage you to delve into our documentation files. These documents provide insights into the thought processes, challenges faced, and solutions implemented throughout the project.
 
 
-## Who Are We?
+## Who Are We
 Karol, Max, and Gabriel form a dynamic team of three individuals with a shared ambition—to deliver a compelling and enjoyable 3D horror game. Our collective dedication is evident in our concerted efforts and unwavering focus on achieving our goals. Beyond our individual pursuits, our common ground lies in our passion for gaming, and we aspire to share this enthusiasm with the world by translating our ideas and concepts into a captivating gaming experience.
 
 ### Gabriel
