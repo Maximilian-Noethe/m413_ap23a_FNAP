@@ -17,12 +17,17 @@ Since we wanted to implement all the ideas we had listed in the "Inform" step, a
 The working times for each task varied and were less in line with our planning, as did the dates by which our tasks were due to be completed. Some tasks took longer than planned, while others took much shorter. 
 In the end, the task list helped us a lot to stay structured and to take new actions when problems arose. However, to have a visual overview of our project, we created a Gantt Chart.
 
+![Screenshot 2023-10-03 191250](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/p-lan/tasklist.png)
+
 
 ## Gantt Chart
 The Gantt Chart shows our different tasks and their chronological order with bars. Every single task of ours is represented by a bar and the length of the task depends on the size of the bar. We had to create a Gantt Chart because we are a team of 3 people, yet it helped us a lot in visualising project timelines and coordinating tasks. Even if we were not a team of 3 people, the Gantt Chart would be a very big help.
 
 Creating a Gantt Chart is also not very difficult. In our case we did it in Excel, but there are other possibilities. We listed all our tasks, made a horizontal list with the start date of the project up to the end date of the project and filled in the necessary bars for each task individually.
 As we had planned some tasks wrongly, we could not stick to them 100%, but the Gantt Chart helped us to have an overview of our project.
+
+
+![Screenshot 2023-10-03 191250](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/p-lan/Gantt%20Chart.png)
 
 
 # Risks
