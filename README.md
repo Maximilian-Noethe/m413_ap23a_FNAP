@@ -8,9 +8,9 @@
 * [Why Five Nights At Peelys?](#why-five-nights-at-peelys)
 * [Explore Our Documentation](#explore-our-documentation)
 * [Who Are We?](#who-are-we)
-* [Gabriel](#gabriel)
-* [Karol](#karol)
-* [Max](#max)
+  * [Gabriel](#gabriel)
+  * [Karol](#karol)
+  * [Maximilian](#maximilian)
 * [Dive Into The Repository](#dive-into-the-repository)
 * [Documentation](#documentation)
 * [Code](#code)
@@ -39,7 +39,7 @@ I am Gabriel and I am responsable for a part of the documentation and the admini
 
 ### Karol
 
-### Max
+### Maximilian
 
 
 ## Dive into the Repository
