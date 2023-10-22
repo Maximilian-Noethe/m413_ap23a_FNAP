@@ -81,7 +81,7 @@ Gabriel, Karol and Max
 
 
 [Inform]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/i-nform/inform.md
-[Plan]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/p-lan
+[Plan]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/p-lan/plan.md
 [Decide]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/e-decide/decision.md
 [Realize]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/r-ealise/realization.md
 [Controll]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/k-controll
