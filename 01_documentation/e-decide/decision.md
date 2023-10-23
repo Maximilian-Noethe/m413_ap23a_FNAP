@@ -32,3 +32,6 @@ Looking at our information part of the documentation, we find it to be a good re
 
 ![Screenshot 2023-10-18 212333](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/643b6171-a984-435f-93df-175f65576cb6)
 
+![Screenshot 2023-10-23 155953](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/a56b7f9c-c55d-46cd-ba21-0e51aa101e83)
+
+
