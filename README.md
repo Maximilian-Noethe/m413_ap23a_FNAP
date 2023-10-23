@@ -63,8 +63,12 @@ Gabriel, Karol and Max
 # Code
 * [PlayerMovement]
 * [EnemyMovement]
-* [Maincharacter]
+* [Collcetables]
 * [Special enemy]
+* [Wallremove]
+* [Flashlight]
+* [Flashlightdrain]
+* [BatteryPickup]
 
 
 
@@ -92,9 +96,13 @@ Gabriel, Karol and Max
 
 
 [PlayerMovement]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/PlayerMovement.cs
-[EnemyMovement]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Enemy%201%20-%203
-[Maincharacter]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Maincharacter
-[Special enemy]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Special%20enemy
+[EnemyMovement]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/EnemyMovement.cs
+[Collcetables]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Collectables.cs
+[Mask]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Mask.cs
+[Wallremove]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Wallremove.cs
+[Flashlight]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Flashlight.cs
+[Flashlightdrain]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Flashlightdrain.cs
+[BatteryPickup]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/BatteryPickup.cs
 
 
 
