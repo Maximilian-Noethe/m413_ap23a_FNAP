@@ -64,7 +64,6 @@ Gabriel, Karol and Max
 * [PlayerMovement]
 * [EnemyMovement]
 * [Collcetables]
-* [Special enemy]
 * [Wallremove]
 * [Flashlight]
 * [Flashlightdrain]
