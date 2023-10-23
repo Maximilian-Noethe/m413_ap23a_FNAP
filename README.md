@@ -91,8 +91,8 @@ Gabriel, Karol and Max
 
 
 
-[Abilities]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Abilities
-[Enemy 1-3]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Enemy%201%20-%203
+[PlayerMovement]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/PlayerMovement.cs
+[EnemyMovement]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Enemy%201%20-%203
 [Maincharacter]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Maincharacter
 [Special enemy]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Special%20enemy
 
