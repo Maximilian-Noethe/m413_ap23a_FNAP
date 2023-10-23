@@ -61,8 +61,8 @@ Gabriel, Karol and Max
 * A [Asses]
   
 # Code
-* [Abilities]
-* [Enemy 1-3]
+* [PlayerMovement]
+* [EnemyMovement]
 * [Maincharacter]
 * [Special enemy]
 
