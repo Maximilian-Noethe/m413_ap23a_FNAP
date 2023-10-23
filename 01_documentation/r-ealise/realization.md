@@ -9,6 +9,8 @@
 * [Artificial inteligence](#artificial-inteligence)
 * [Functions](#functions)
 * [Collectables](#collectables)
+* [HUD](#hud)
+* [Jumpscare](#jumpscare)
 
 
 
