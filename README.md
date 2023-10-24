@@ -3,6 +3,7 @@
 # Table of contents
 
 * [Introdcution](#introduction)
+* [Demo](#demo)
 * [Project Overview](#project-overview)
 * [Methodology](#methodology)
 * [Why Five Nights At Peelys](#why-five-nights-at-peelys)
@@ -15,11 +16,18 @@
 * [Documentation](#documentation)
 * [Code](#code)
 
-## Demo
-https://play.unity.com/mg/other/fnap_demo
-
 # Introduction
 Welcome to the repository of the "Five Nights At Peelys" project by Karol, Max, and Gabriel. Our team dedicatedly developed a 3D game from the ground up, employing the IPERKA management method to ensure the delivery of a high-quality product that aligns with the client's vision. This repository includes comprehensive documentation detailing the various aspects of the assignment.
+
+## Instruction on how to play Five Nights At Peelys
+
+1. Click on the link under the "Demo" section of this repository.
+2. Follow the comments set under the game for better understanding.
+3. Click at the right side on the bottom to maximize the screen and enjoy a better experience.
+4. Enjoy the game!
+
+## Demo
+https://play.unity.com/mg/other/fnap_demo
 
 ## Project Overview
 Our game is set in a haunted restaurant, and the primary objective is to escape its eerie confines. Drawing inspiration from the horror game "Five Nights At Freddy's" and the popular title "Fortnite," we crafted an engaging and immersive experience.
