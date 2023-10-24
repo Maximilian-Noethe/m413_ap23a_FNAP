@@ -26,6 +26,8 @@ Welcome to the repository of the "Five Nights At Peelys" project by Karol, Max, 
 3. Click at the right side on the bottom to maximize the screen and enjoy a better experience.
 4. Enjoy the game!
 
+*The simplest way to make our game accessible to customers was through a link, rather than via .exe files. We conducted tests regarding this approach and determined that it was the most efficient solution for all parties involved.*
+
 ## Demo
 https://play.unity.com/mg/other/fnap_demo
 
