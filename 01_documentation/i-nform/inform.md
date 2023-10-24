@@ -16,7 +16,7 @@ We recognized that the informational aspect of our project might overlap with ot
 ![Screenshot 2023-10-03 191250](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/a3296b53-0906-4ca2-b2ab-ad6c523fbb56)
 ## Sources of inspirement
 
-Initially, our inspiration stemmed from the horror game 'Five Nights At Freddy's,' where the objective is to survive five nights in a haunted restaurant overrun by malfunctioning robots. Drawing from our shared enthusiasm for the third-person shooter game 'Fortnite,' we aimed to blend elements from both games, adding a unique twist to our project. Consequently, we delved into researching how we could seamlessly integrate aspects of these two games with each other.
+Initially, our inspiration stemmed from the horror game 'Five Nights At Freddy's,' where the objective is to survive five nights in a haunted restaurant overrun by malfunctioning robots. Drawing from our shared enthusiasm for the third-person shooter game 'Fortnite,' we aimed to blend elements from both games, adding a unique twist to our project. Consequently, we delved into researching how we could seamlessly integrate aspects of these two games with each other. It's to note that we gathered most of our sources directly from websites that seemed trustworthy to us and you can also visit them in our directory of sources at the end of this document.
 
 ## Goals
 For our project, we've established three SMART goals to provide structure to our ambitions and guide the development process. These goals serve as a vision for the project, offering a reference point for control and assessment throughout its lifecycle.
