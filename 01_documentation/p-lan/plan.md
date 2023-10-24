@@ -30,7 +30,20 @@ As we had planned some tasks wrongly, we could not stick to them 100%, but the G
 ![Screenshot 2023-10-03 191250](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/p-lan/Gantt%20Chart.png)
 
 
-# Risks
+## Risks
 Risks and problems will always be a part of a project and you will never be able to avoid them 100%. We also had problems that we had to fix, but you only learn from these mistakes and know what you have to do better in the next project.
 
 During the planning of our project, we encountered risks several times that prevented us from having a successful conclusion. We were able to avoid most of the risks right from the start, but one of them, time management, was partly our undoing. It wasn't a big problem because we knew it was going to be a problem, so we were able to deal with it and get everything done in time because we planned everything a bit earlier so that we would have enough time for everything at times like this.
+
+## Milestones
+To gain a clearer understanding of our own expectations, we set some milestones from the very beginning that we aimed to achieve during the assignment. This not only provided structure to our project, but will also be beneficial when we approach the assessment phase at the end of the project. This will allow us to reflect on how we managed to reach our milestones. We kept them high-level and easy for us to comprehend. It might be important to elaborate on a few of them.
+
+*Finish movement of all characters:* We aim for the characters' movements to be fluid and free from any glitches.
+
+*First draft (movement + design):* We want to have a visual blueprint of what the game could potentially look like. This milestone was documented in the realization document created by our designer and main developer.
+
+*Finish collectibles:* The collectibles should not be too complex, but rather simple and logical in relation to the game's structure and theme.
+
+*Review of goals we set:* As outlined in the information document provided by our administrative team member, we set some goals that we plan to review during the assessment, along with the milestones listed here. In our opinion, this milestone goes hand-in-hand with our goals.
+
+*Project completion date:* We set this milestone to review our planning during the assessment, allowing us to evaluate whether our planning was effective or whether we experienced any shortcomings.
