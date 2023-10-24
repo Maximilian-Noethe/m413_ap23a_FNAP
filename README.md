@@ -103,6 +103,10 @@ Gabriel, Karol and Max
 [Controll]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/k-controll
 [Asses]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/a-sses/asses.md
 
+## Assignment Brief
+
+![Screenshot 2023-10-24 213238](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/b6916174-d9b7-496e-9c46-81e19ae87a64)
+![Screenshot 2023-10-24 213334](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/2570f278-4416-4356-8db5-4409ddd02848)
 
 
 
