@@ -68,7 +68,7 @@ These goals provide a comprehensive framework for our project, ensuring a clear 
 ![Screenshot 2023-10-24 202907](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/a522ce14-63c8-4e76-a83e-822f55b1358a)
 ![Screenshot 2023-10-24 203011](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/a5c68e94-94d4-4c29-887c-766ba0ca8dee)
 
-*All decisions set for the assignment brief were made by 28.8. - 4.9.2023. Changes to the organisation are to consider.*
+*All decisions set for the assignment brief were made by 28.8. - 4.9.2023. Changes to the organisation are to be considered.*
 
 ## Directory of sources
 
