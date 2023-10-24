@@ -15,6 +15,7 @@
 * [Dive Into The Repository](#dive-into-the-repository)
 * [Documentation](#documentation)
 * [Code](#code)
+* [Assignment Brief](#assignment-brief)
 
 # Introduction
 Welcome to the repository of the "Five Nights At Peelys" project by Karol, Max, and Gabriel. Our team dedicatedly developed a 3D game from the ground up, employing the IPERKA management method to ensure the delivery of a high-quality product that aligns with the client's vision. This repository includes comprehensive documentation detailing the various aspects of the assignment.
