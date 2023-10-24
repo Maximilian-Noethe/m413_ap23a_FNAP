@@ -47,3 +47,6 @@ To gain a clearer understanding of our own expectations, we set some milestones 
 *Review of goals we set:* As outlined in the information document provided by our administrative team member, we set some goals that we plan to review during the assessment, along with the milestones listed here. In our opinion, this milestone goes hand-in-hand with our goals.
 
 *Project completion date:* We set this milestone to review our planning during the assessment, allowing us to evaluate whether our planning was effective or whether we experienced any shortcomings.
+
+![Screenshot 2023-10-24 212550](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/d099b2b0-519b-4513-89a8-55b4c384359e)
+
