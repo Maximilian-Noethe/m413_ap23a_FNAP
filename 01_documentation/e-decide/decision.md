@@ -2,7 +2,7 @@
 
 Decisions play a role in every project, and our specific project was no exception. We navigated through a collaborative decision-making process, where we not only accepted each other's ideas but also provided complementary input. To facilitate this, we created documents such as task lists, decision logs, and decision matrices.
 
-Our decision-making wasn't limited to the technical aspects of the project; we also addressed social considerations. This involved determining the most efficient and collaborative times for work, assigning specific tasks to team members, and considering external factors that might impact our decisions.
+Our decision-making wasn't limited to the technical aspects of the project; we also addressed social considerations. This involved determining the most efficient and collaborative times for work, assigning specific tasks to team members, and considering external factors that might impact our decisions. We consider ourselves to be effective decision-makers. Often, we found ourselves in agreement with each other. On the occasions when we didn't, we strived to find a compromise that everyone could accept. Of course, all the ideas that drove these decisions were aimed at improving our project, and ultimately, they were in our shared interest.
 
 We realized that the decisions made during the project had a reciprocal influence on both the planning and realization phases. The relationship between decision-making, planning, and implementation is dynamic and interconnected.
 
