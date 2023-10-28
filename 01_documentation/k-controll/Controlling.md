@@ -1,17 +1,19 @@
 # Controlling
 
-If you follow the exact step by step of IPERKA the controlling part is near the end of a project. Nevertheless having a testing protocoll is very important to have. Not only because most clients like to see one but also it's good to see if a product does work and where flaws are. For our project as a whole we always improved flaws and issues right after implementig new code. In this sense we also tested the game regularly. 
+When following the exact step-by-step process outlined in IPERKA, the controlling phase typically occurs towards the end of a project. Despite its placement in the project timeline, having a comprehensive testing protocol is crucial. Not only is it a client expectation, but it also serves as a valuable tool to assess the functionality of the product and identify any potential flaws. Throughout our project, we consistently addressed issues promptly, especially after implementing new code. Regular testing was an integral part of our improvement process.
 
-## How did we test?
+## How We Conducted Testing
 
-As soon as our software developer gave us the call that the product is finished and no further changes will be made, the assigned project administrator tested the product and filled in the information in the the testing protocoll made by the head of administration in documents. The product was tested thinking of 2 possible scenarios.
+Upon receiving confirmation from our software developer that the product was finalized with no further changes expected, the assigned project administrator took charge of testing. The administrator then completed a testing protocol, meticulously crafted by the head of administration in documents. The testing process was designed around two distinct scenarios.
 
 ## 1. Scenario:
-John Doe testing the game as a casual player intersted in video games. In our idea John Doe has a decent gaming experience, a normal working laptop and an aspiration for new games. John Doe understands that this is a school project and is satisifed about the game.
+
+John Doe, embodying the persona of a casual player interested in video games, tested the game. John, with a decent gaming experience, utilized a standard working laptop and approached the game with an enthusiasm for new gaming experiences. Being aware that this was a school project, John expressed satisfaction with the game.
 
 ## 2. Scenario:
-Jane Doe is a software developer with a high-end PC who is desperate to benchmark the game as one. She takes through different settings on her PC and creates her opinion. Quickly she realizes that the game resists high graphical settings. She is also satisified.
 
-## Testing Protocoll
+Jane Doe, a software developer with a high-end PC, eagerly benchmarked the game. She explored various settings on her powerful PC and formulated her opinion. Jane quickly observed the game's resilience to high graphical settings, expressing her satisfaction with the overall performance.
 
-To realize what we even want to test, we had to create a testing protocoll in order to do that. We kept the testing requirements high class and checked on upon our expectatons of how the game should work. As mentioned previously the end product already went through some minor testing sessions and now our was to test the the game in the view of an user. 
+## Testing Protocol
+
+To define the parameters for our testing, the creation of a testing protocol was imperative. We set high-class testing requirements aligned with our expectations for how the game should function. As mentioned earlier, the end product underwent several minor testing sessions. Our goal now was to assess the game from a user's perspective.
