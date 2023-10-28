@@ -52,6 +52,7 @@ Karol, Max, and Gabriel form a dynamic team of three individuals with a shared a
 I am Gabriel and I am responsable for a part of the documentation and the administration of our project. As I have interest for our team to have a great project I am commited to administrate the repository and the documentation with my mate Max whose also very into this project and complements my work pretty good and vise versa.
 
 ### Karol
+Hello, I'm Karol. For the major part of this project, I worked on the realization document, the game, and the 3D models. I proposed creating a horror game inspired by Fortnite and FNAF (Five Nights at Freddy's). I wanted our team to stand out from the others and take on a challenging task, but we also had to know that we could succeed in completing it.
 
 ### Maximilian
 
