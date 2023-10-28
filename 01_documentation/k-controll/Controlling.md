@@ -16,4 +16,20 @@ Jane Doe, a software developer with a high-end PC, eagerly benchmarked the game.
 
 ## Testing Protocol
 
-To define the parameters for our testing, the creation of a testing protocol was imperative. We set high-class testing requirements aligned with our expectations for how the game should function. As mentioned earlier, the end product underwent several minor testing sessions. Our goal now was to assess the game from a user's perspective.
+Establishing a testing protocol was essential to define the parameters for our evaluation process. We formulated high-quality testing requirements that aligned with our expectations for the game's functionality. As mentioned previously, the end product underwent multiple minor testing sessions. Our current objective was to evaluate the game from a user's perspective.
+
+## Why is a Testing Protocol Important?
+
+A testing protocol serves as a comprehensive tool, offering the client insights into the product's behavior. Beyond providing an overview of what works well and areas for improvement, it also aids developers in identifying flaws or bugs within the system.
+
+## Procedure for Effective Testing
+
+The designated team member for this task initially familiarized themselves with the template provided in the testing protocol. Subsequently, the tester systematically filled out each column in the template. The process began by outlining expectations for the output, followed by rigorous testing on the specific topic. A brief description of the result was documented in the "Received Output" column before assigning a status to the topic. Once a topic was thoroughly checked and completed, the revising team member's name (in our case, Gabriel) was recorded in the "Revised" column.
+
+## What If?
+
+Given the complexity of projects, the likelihood of encountering bugs is close to unavoidable. Even major websites, games, and software regularly address and fix bugs. As a team, we made a strategic decision due to time constraints—we documented identified issues in this protocol without immediately fixing them to avoid the risk of exacerbating larger problems.
+
+## Problems Experienced During Testing
+
+One specific issue arose where all enemies clustered together unexpectedly. Although this behavior wasn't planned, the situation resolved itself naturally after a certain in-game event. While not the intended behavior, we decided to leave it as is since it didn't pose a significant problem and addressing it could risk unintended consequences.
