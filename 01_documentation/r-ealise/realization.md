@@ -12,7 +12,6 @@
 * [HUD](#hud)
 * [Jumpscare](#jumpscare)
 * [Sounds](#sounds)
-* [Playthrough](#playthrough)
 
 
 
@@ -122,9 +121,3 @@ https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780585/fd6d2a77-b
 ## Sounds
 
 The sounds were the final element we added to the game. Given our time constraints, we had doubted we would be able to implement this feature, but now that it is here, the sounds are functional. It looks excellent since I added a Jumpscare sound that I stole from FNAF 2 (I gave credit though). There is a YAY sound that plays if you win; I'm not sure from which FNAF game it is tho. We also included some other sounds, like a cemetery sound that permeates the entire area and spooks everyone. A sound that sounds like a broken music box is playing in the playroom, giving the impression that it's a haunted place. More easter eggs can be found throughout the map, but we want you to solve them on your own.
-
-## Playthrough
-
-Here is a speedrun I have made for my game. You can use it as a help to find all the collectables.
-
-
