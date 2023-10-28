@@ -116,3 +116,7 @@ Next thing was adding the HUD to the game. I had to get a picture of a needle an
 Now was the time for jumpscares. What I did, was to if the player gets caught by the enemy, that he will be teleported to the jumpscare sceen. It looks like this.
 
 https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780585/fd6d2a77-b5ed-45fd-8889-383ebb34ed71
+
+## Sounds
+
+The sounds were the final element we added to the game. Given our time constraints, we had doubted we would be able to implement this feature, but now that it is here, the sounds are functional. It looks excellent since I added a Jumpscare sound that I stole from FNAF 2 (I gave credit though). There is a YAY sound that plays if you win; I'm not sure from which FNAF game it is tho. We also included some other sounds, like a cemetery sound that permeates the entire area and spooks everyone. A sound that sounds like a broken music box is playing in the playroom, giving the impression that it's a haunted place. More easter eggs can be found throughout the map, but we want you to solve them on your own.
