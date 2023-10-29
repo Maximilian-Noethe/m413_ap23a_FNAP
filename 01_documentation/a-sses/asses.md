@@ -22,4 +22,6 @@ Given the varied perspectives within the team, addressing the GitHub learning cu
 
 ## Karol:
 
+This project went really well, in my opinion. I enjoyed how we were able to seamlessly transition into our roles. Since there weren't any significant disagreements, selecting something wasn't difficult, and we could finish it quickly. I also thought highly of the team as a whole; we got along great and collaborated well all the time. Apart from Unity occasionally making mistakes, I don't think I have anything to be upset about. However, I have never worked with a more driven and diligent team on a project or simply for any kind of work.
+
 ## Max:
