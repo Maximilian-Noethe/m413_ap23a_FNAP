@@ -7,6 +7,8 @@ Before we could embed all our tasks into different data, we first had to define 
 
 In the end, we decided that Karol would do all the coding while Gabriel and Maximilian would split the documentation and administrative tasks between them. This way Karol will be able to focus on the programming and Gabriel and Maximilian will have enough time to document the whole project step by step.
 
+## Resource plan 
+
 ## Tasklist
 The tasklist is probably the most important thing we need to know what our next steps are in the project. The tasklist serves to show us what we have to do, by when these tasks should be finished and who is responsible for the individual tasks.
 The compilation of the different tasks went very well and we quickly knew what we had to do. However, our first task list was not very detailed, but we optimised and expanded it over time. Each task was written down in more detail and broken down into smaller tasks.
