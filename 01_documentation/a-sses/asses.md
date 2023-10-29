@@ -20,11 +20,16 @@ Given the varied perspectives within the team, addressing the GitHub learning cu
 
 ## Gabriel:
 
+In my opinion, we formed a highly flexible and dynamic team with a commendable ability to communicate when tasks needed to be addressed. For an assignment as complex as this one, an ambitious and committed team was essential, and these attributes were prevalent within our group. However, as mentioned earlier, perfection is elusive in projects, and we were no exception. There were instances where it was frustrating that certain documents weren't ready by the expected date. In such situations, it is crucial not to succumb to stress but, instead, to organize and focus on what is within our control.
+
+Personally, I encountered some challenges in understanding the effective use of the documents we created. Over time, clarity improved, but I recognize that I should have asked more questions about the topics if anything was unclear. In summary, I am genuinely proud to have been part of this team. Despite the imperfections, as noted earlier, they are integral to the growth process.
+
 ## Karol:
 
 This project went really well, in my opinion. I enjoyed how we were able to seamlessly transition into our roles. Since there weren't any significant disagreements, selecting something wasn't difficult, and we could finish it quickly. I also thought highly of the team as a whole; we got along great and collaborated well all the time. Apart from Unity occasionally making mistakes, I don't think I have anything to be upset about. However, I have never worked with a more driven and diligent team on a project or simply for any kind of work.
 
 ## Max:
+
 For our first project and being in a team with people I only know for 3 months now, I personally think that this project went end ended very well. From the very first step "Inform" until the very end "Assess" the harmony was always there and everyone knew what to do.
 
 My honest opinion about the whole assignment:
