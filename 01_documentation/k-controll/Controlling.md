@@ -33,3 +33,6 @@ Given the complexity of projects, the likelihood of encountering bugs is close t
 ## Problems Experienced During Testing
 
 One specific issue arose where all enemies clustered together unexpectedly. Although this behavior wasn't planned, the situation resolved itself naturally after a certain in-game event. While not the intended behavior, we decided to leave it as is since it didn't pose a significant problem and addressing it could risk unintended consequences.
+
+![Screenshot 2023-10-28 125628](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/7abb6d3b-c51e-458d-9b43-4b0593a43086)
+
