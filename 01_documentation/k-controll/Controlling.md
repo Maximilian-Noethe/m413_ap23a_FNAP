@@ -61,6 +61,11 @@ You can't walk through walls and other other objects:
 
 https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/8b59fcef-0ea3-41ca-9d46-ca9aefa0bde7
 
+## Defect List
+
+![image](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/658ed892-3b04-46ac-af1e-3be13eb5f12f)
+
+
 
 
 
