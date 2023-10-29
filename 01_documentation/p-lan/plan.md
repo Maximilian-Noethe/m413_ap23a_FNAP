@@ -9,6 +9,21 @@ In the end, we decided that Karol would do all the coding while Gabriel and Maxi
 
 ## Resource plan 
 
+The Resource plan was necessary for us to decide on which days, each team member was free to work on our project.
+It showed us on which times of the day, which days of the week and where we are able to wrok on the project. This was very important to make because we needed a structure of our working time to see if we'd have enough time for our whole project.
+Of course we couldn't follow the resource plan everyday directly but we did our best to orient our working times just like we planned on there.
+
+With that planned, we also know how many hours our project would take in total: 153 hours (please check gabriel)
+
+
+Resource plan for September:
+
+![Screenshot 2023-10-03 191250](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/p-lan/ressource%20plan.png)
+
+Resource plan for October:
+
+![Screenshot 2023-10-03 191250](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/p-lan/ressource%20plan_oct.png)
+
 ## Tasklist
 The tasklist is probably the most important thing we need to know what our next steps are in the project. The tasklist serves to show us what we have to do, by when these tasks should be finished and who is responsible for the individual tasks.
 The compilation of the different tasks went very well and we quickly knew what we had to do. However, our first task list was not very detailed, but we optimised and expanded it over time. Each task was written down in more detail and broken down into smaller tasks.
