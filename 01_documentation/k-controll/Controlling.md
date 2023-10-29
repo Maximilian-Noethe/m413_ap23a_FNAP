@@ -57,6 +57,11 @@ The abilities behave as they should when the according buttons are pressed:
 
 https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/3d5a2db5-d338-4ec7-85e2-16f040e53880
 
+You can't walk through walls and other other objects:
+
+https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/8b59fcef-0ea3-41ca-9d46-ca9aefa0bde7
+
+
 
 
 
