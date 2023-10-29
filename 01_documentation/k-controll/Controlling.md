@@ -42,9 +42,7 @@ One specific issue arose where all enemies clustered together unexpectedly. Alth
 ## Testing Gallery
 
 The player moves smooth and the number of collectibles increments whenever they're collected.
-(https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/5385d8be-9308-40f8-9075-9129f997966c
-)https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/5385d8be-9308-40f8-9075-9129f997966c
-
+https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/5385d8be-9308-40f8-9075-9129f997966c
 
 
 
