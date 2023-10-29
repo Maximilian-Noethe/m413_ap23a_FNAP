@@ -26,6 +26,9 @@ A testing protocol serves as a comprehensive tool, offering the client insights 
 
 The designated team member for this task initially familiarized themselves with the template provided in the testing protocol. Subsequently, the tester systematically filled out each column in the template. The process began by outlining expectations for the output, followed by rigorous testing on the specific topic. A brief description of the result was documented in the "Received Output" column before assigning a status to the topic. Once a topic was thoroughly checked and completed, the revising team member's name (in our case, Gabriel) was recorded in the "Revised" column.
 
+![Screenshot 2023-10-29 103233](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/c16801d5-adc3-4274-b9eb-b1d8c5062e96)
+![Screenshot 2023-10-29 103242](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/12dede12-ac94-463b-a544-1e54cd9cca76)
+
 ## What If?
 
 Given the complexity of projects, the likelihood of encountering bugs is close to unavoidable. Even major websites, games, and software regularly address and fix bugs. As a team, we made a strategic decision due to time constraints—we documented identified issues in this protocol without immediately fixing them to avoid the risk of exacerbating larger problems.
