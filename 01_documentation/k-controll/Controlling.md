@@ -49,6 +49,11 @@ All abilities behave as they should:
 
 https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/508f63b3-c6ed-4185-ab5e-1fb4ce2029f1
 
+Even with high graphics the game runs:
+
+https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/a0ffa052-0c3f-4411-87d1-0074b017333a
+
+
 
 
 
