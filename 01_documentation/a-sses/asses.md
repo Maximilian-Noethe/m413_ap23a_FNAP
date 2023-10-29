@@ -25,3 +25,12 @@ Given the varied perspectives within the team, addressing the GitHub learning cu
 This project went really well, in my opinion. I enjoyed how we were able to seamlessly transition into our roles. Since there weren't any significant disagreements, selecting something wasn't difficult, and we could finish it quickly. I also thought highly of the team as a whole; we got along great and collaborated well all the time. Apart from Unity occasionally making mistakes, I don't think I have anything to be upset about. However, I have never worked with a more driven and diligent team on a project or simply for any kind of work.
 
 ## Max:
+For our first project and being in a team with people I only know for 3 months now, I personally think that this project went end ended very well. From the very first step "Inform" until the very end "Assess" the harmony was always there and everyone knew what to do.
+
+My honest opinion about the whole assignment:
+
+I think that in total we did a great job and that our project ended successfully. Although we could have changed some things to make everything a bit more clear. Especially in the beginning. I was very lost in the beginning because I had a lot of trouble getting along with the Github repository and how to create the documentation for the project. After multiple sessions with Neil I've had the necessary knowledge for Github repository and could do some work in it. And as time passes by, I almost had no troubles with it ever again. 
+
+The teamwork and the coordination between teammembers was almost perfect in my opinion. We all could get along with each other and since we all liked our project and had motivaton to work on it, there havent been any differences of opinion and therefore also no big problems. In my opinion, the coordination is an important point and our team did this very good, we could rely on each team member and as we can see from our game and documentation, everything went as good as we planned it.
+
+In total I think that this project went very good, the work, the administrative things and the harmony within the team, all of it was good. I would change some things mentioned earlier for our next project but I am very happy to see such a good result.
