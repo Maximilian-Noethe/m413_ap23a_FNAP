@@ -55,7 +55,7 @@ I am Gabriel and I am responsable for a part of the documentation and the admini
 Hello, I'm Karol. For the major part of this project, I worked on the realization document, the game, and the 3D models. I proposed creating a horror game inspired by Fortnite and FNAF (Five Nights at Freddy's). I wanted our team to stand out from the others and take on a challenging task, but we also had to know that we could succeed in completing it.
 
 ### Maximilian
-
+Hey guys, I'm Maximilian and with my mate Gabriel I am responsible to edit our Github and do the documentation part for our project. The documentation part is split into two parts and the editing of our Github repository has a general importance. With my other half, being Gabriel which does his job very good, I'm going to keep the repository updated, make new changes and keep the documentation cear.
 
 ## Dive into the Repository
 Feel free to explore the entire repository to get a closer look at our codebase, assets, and design choices. We hope you enjoy the journey through the various components of "Five Nights At Peelys."
