@@ -46,6 +46,9 @@ As we had planned some tasks wrongly, we could not stick to them 100%, but the G
 
 ![Screenshot 2023-10-03 191250](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/p-lan/Gantt%20Chart.png)
 
+### Milestones in Gantt Chart
+![Screenshot 2023-10-03 191250](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/p-lan/Milestones.png)
+
 
 ## Risks
 Risks and problems will always be a part of a project and you will never be able to avoid them 100%. We also had problems that we had to fix, but you only learn from these mistakes and know what you have to do better in the next project.
@@ -67,3 +70,11 @@ To gain a clearer understanding of our own expectations, we set some milestones 
 
 ![Screenshot 2023-10-24 212550](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/d099b2b0-519b-4513-89a8-55b4c384359e)
 
+## Assess of the planning
+After finishing the project and looking at our planning and everything we did to make sure we are on the right path, i can happily say that our planning part was very successful.
+
+We planned everything a bit longer than we expected so we wouldn't get into time related stress. This made everything a bit more comfortable with the knowledge that we had enough time for everything. We tried our best to follow our plans directly, which we mostly also did, but there have been some days or weeks where we did everything completely different. But as soon as everyhting got handled right, we went back to follow our resource plan. We have also noticed that some tasks took a bit longer and some tasks took a bit less longer than planned. But since we planned everything to be a bit longer this didn't really affected us.
+
+As we imrpoved in our project we have noticed that we could add some more things to our game, which means that we have new tasks to accomplish. In order to be up to date and never miss a new tasks, Maximilian has updated the tasklist and the gantt chart to our latest status.
+
+We planned everything very detailed for each person, so everyone knows what to do and once a team member finished his stuff he would notice the rest of the team. This is how everyone was updated and knew what the next step will be.
