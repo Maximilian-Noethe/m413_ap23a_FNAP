@@ -79,10 +79,3 @@ As we imrpoved in our project we have noticed that we could add some more things
 
 We planned everything very detailed for each person, so everyone knows what to do and once a team member finished his stuff he would notice the rest of the team. This is how everyone was updated and knew what the next step will be.
 
-
-# Back
-[Back to repository]
-
-
-
-[Back to repository]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main
