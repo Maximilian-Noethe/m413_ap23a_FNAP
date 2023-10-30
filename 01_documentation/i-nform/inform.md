@@ -80,4 +80,4 @@ These goals provide a comprehensive framework for our project, ensuring a clear 
 **Videos viewed for learning reasons: https://youtu.be/MDwVMaJ4mFc?si=g4qXew3fhcdF8BNl, https://teams.microsoft.com/l/message/19:b605bbdb-a790-4222-8fa2-92122c7a59e6_d46ccd55-b57d-4f6a-b790-3d073fe03b93@unq.gbl.spaces/1697116754792?context=%7B%22contextType%22%3A%22chat%22%7D, https://teams.microsoft.com/l/message/19:b605bbdb-a790-4222-8fa2-92122c7a59e6_d46ccd55-b57d-4f6a-b790-3d073fe03b93@unq.gbl.spaces/1697116785083?context=%7B%22contextType%22%3A%22chat%22%7D, https://teams.microsoft.com/l/message/19:b605bbdb-a790-4222-8fa2-92122c7a59e6_d46ccd55-b57d-4f6a-b790-3d073fe03b93@unq.gbl.spaces/1697116824189?context=%7B%22contextType%22%3A%22chat%22%7D, https://teams.microsoft.com/l/message/19:b605bbdb-a790-4222-8fa2-92122c7a59e6_d46ccd55-b57d-4f6a-b790-3d073fe03b93@unq.gbl.spaces/1697116859493?context=%7B%22contextType%22%3A%22chat%22%7D**
 
 
-**This text was wrote by a human. The correction of the text was done by the AI tool ChatGPT. https://chat.openai.com/**
+*This text was wrote by a human. The correction of the text was done by the AI tool ChatGPT. https://chat.openai.com/*
