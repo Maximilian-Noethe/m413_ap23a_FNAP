@@ -81,4 +81,4 @@ These goals provide a comprehensive framework for our project, ensuring a clear 
 **Scratch game** https://scratch.mit.edu/projects/623074576/
 
 
-*This text was wrote by a human. The correction of the text was done by the AI tool ChatGPT. https://chat.openai.com/*
+*This document was wrote by a human. The correction of the text was done by the AI tool ChatGPT. https://chat.openai.com/*
