@@ -85,7 +85,7 @@ Gabriel, Karol and Max
 * [BatteryPickup]
 
 
-# Watch Karol play our game
+# Watch Karol playing our game
 
 https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/51def8a6-0637-4b38-82be-0f939d35dedc
 
