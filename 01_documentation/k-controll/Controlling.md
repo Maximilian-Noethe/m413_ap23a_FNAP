@@ -65,8 +65,7 @@ https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/8b59fcef-0
 
 ![image](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/658ed892-3b04-46ac-af1e-3be13eb5f12f)
 
-
-
+*This text was wrote by a human. The correction of the text was done by the AI tool ChatGPT. https://chat.openai.com/*
 
 
 
