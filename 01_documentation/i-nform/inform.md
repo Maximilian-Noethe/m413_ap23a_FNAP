@@ -82,7 +82,8 @@ These goals provide a comprehensive framework for our project, ensuring a clear 
 
 *This text was wrote by a human. The correction of the text was done by the AI tool ChatGPT. https://chat.openai.com/*
 
-* [Back to repository]
+# Back
+[Back to repository]
 
 
 
