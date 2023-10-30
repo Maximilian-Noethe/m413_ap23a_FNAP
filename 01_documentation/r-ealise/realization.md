@@ -14,7 +14,6 @@
 * [Sounds](#sounds)
 * [Saving](#saving)
 * [Source](#source)
-* [Back](#back)
 
 
 
@@ -133,10 +132,3 @@ Everything was saved differently by us. We saved the code, for instance, in the 
 
 *Text corrected by: Quillbot.*
 *Text writen by: Karol Krawiec.*
-
-# Back
-[Back to repository]
-
-
-
-[Back to repository]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main
