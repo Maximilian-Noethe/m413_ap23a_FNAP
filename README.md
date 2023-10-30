@@ -87,7 +87,14 @@ Gabriel, Karol and Max
 
 # Watch Karol play our game
 
-https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/922166a0-36de-4169-84d5-e6af69c9d1e4
+https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/51def8a6-0637-4b38-82be-0f939d35dedc
+
+https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/90dc93eb-4a25-4532-b0bb-397d1d359bf3
+
+https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/9c6e6007-7620-4cc3-a67b-4b1585b37982
+
+https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/46a89f87-74f0-47d4-9c06-a9ad14d23617
+
 
 
 
