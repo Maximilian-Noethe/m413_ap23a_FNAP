@@ -122,5 +122,6 @@ Gabriel, Karol and Max
 [Flashlightdrain]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/Flashlightdrain.cs
 [BatteryPickup]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/Code/BatteryPickup.cs
 
+*This text was wrote by a human. The correction was made using the AI tool ChatGPT. https://chat.openai.com/
 
 
