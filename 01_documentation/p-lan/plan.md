@@ -13,7 +13,7 @@ The Resource plan was necessary for us to decide on which days, each team member
 It showed us on which times of the day, which days of the week and where we are able to wrok on the project. This was very important to make because we needed a structure of our working time to see if we'd have enough time for our whole project.
 Of course we couldn't follow the resource plan everyday directly but we did our best to orient our working times just like we planned on there.
 
-With that planned, we also know how many hours our project would take in total: 153 hours (please check gabriel)
+With that planned, we also know how many hours our project would take in total: 156 hours
 
 
 Resource plan for September:
