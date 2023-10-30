@@ -38,7 +38,9 @@ Looking at our information part of the documentation, we find it to be a good re
 ![Screenshot 2023-10-30 151312](https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/assets/142780256/66d3635d-670c-467f-8676-f99e6b26ea2c)
 
 *"Decision" enhanced by https://chat.openai.com/*
+
 *"Matrix Model" enhanced by https://chat.openai.com/*
+
 *"Decision Log" enhanced by https://chat.openai.com/*
 
 
