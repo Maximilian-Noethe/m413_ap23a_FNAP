@@ -40,6 +40,6 @@ The teamwork and the coordination between teammembers was almost perfect in my o
 
 In total I think that this project went very good, the work, the administrative things and the harmony within the team, all of it was good. I would change some things mentioned earlier for our next project but I am very happy to see such a good result.
 
-*This text was wrote by a human. The correction of the text was done by the AI tool ChatGPT. https://chat.openai.com/*
+*This document was wrote by a human. The correction of the text was done by the AI tool ChatGPT. https://chat.openai.com/*
 
 
