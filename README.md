@@ -102,7 +102,7 @@ Gabriel, Karol and Max
 [Plan]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/p-lan/plan.md
 [Decide]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/e-decide/decision.md
 [Realize]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/r-ealise/realization.md
-[Controll]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/k-controll
+[Controll]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/tree/main/01_documentation/k-controll/controll.md
 [Asses]: https://github.com/Maximilian-Noethe/m413_ap23a_FNAP/blob/main/01_documentation/a-sses/asses.md
 
 ## Assignment Brief
