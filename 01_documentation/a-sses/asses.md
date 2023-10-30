@@ -39,3 +39,5 @@ I think that in total we did a great job and that our project ended successfully
 The teamwork and the coordination between teammembers was almost perfect in my opinion. We all could get along with each other and since we all liked our project and had motivaton to work on it, there havent been any differences of opinion and therefore also no big problems. In my opinion, the coordination is an important point and our team did this very good, we could rely on each team member and as we can see from our game and documentation, everything went as good as we planned it.
 
 In total I think that this project went very good, the work, the administrative things and the harmony within the team, all of it was good. I would change some things mentioned earlier for our next project but I am very happy to see such a good result.
+
+*This text was wrote by a human. The correction of the text was done by the AI tool ChatGPT. https://chat.openai.com/*
