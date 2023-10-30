@@ -13,6 +13,7 @@
 * [Jumpscare](#jumpscare)
 * [Sounds](#sounds)
 * [Saving](#saving)
+* [Source](#source)
 
 
 
@@ -126,3 +127,8 @@ The sounds were the final element we added to the game. Given our time constrain
 ## Saving
 
 Everything was saved differently by us. I saved the code, for instance, in the vscode timeline. You can view your safes in code by going back in time using the timeline. I downloaded the game's assets and saved them to the cloud after making some significant changes. Because of that, our project was secure, and we could have returned to the last checkpoint if something had gone wrong.
+
+## Source
+
+*Text corrected by: Quillbot.*
+*Text writen by: Karol Krawiec.*
